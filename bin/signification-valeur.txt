@@ -1,0 +1,19 @@
+ si les cases sont fermé
+
+    -1 = mine
+
+    0 = ttes les cases ouvertes donc gagné.
+
+    1 - 8 = entre 1 et 8 cases.
+
+
+
+    9 = mine ouvert
+
+    10 - 18 = case de 0 à 8 ouvert
+
+
+
+    18 = case de mine avec un drapeau
+
+    19 - 26 = case de 0 à 8 avec un drapeau.
